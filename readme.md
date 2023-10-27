@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project aims to create a Handwritten Digit Recognizer using deep learning techniques. We will leverage the MNIST dataset, a widely recognized database of handwritten digits. 
+This project aims to create a Handwritten Digit Recognizer using deep learning techniques. We will leverage the MNIST dataset, a widely recognized database of handwritten digits.
+
+---
 
 ## Objective
 
